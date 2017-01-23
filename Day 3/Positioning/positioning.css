@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <style>
 	#p1 {
 		margin-left: 0 auto;
@@ -6,4 +7,14 @@
 		background: #ccc;
 		text-align: center;
 
+=======
+<style>
+	#p1 {
+		margin-left: 0 auto;
+		margin-right:0 auto;
+		width: 45%;
+		background: #ccc;
+		text-align: center;
+
+>>>>>>> b44b3a5561fc4c631abdef9e9d000cf20ba8b97c
 	}

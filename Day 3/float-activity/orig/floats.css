@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Float Layout Activity 
  **/
@@ -50,3 +51,57 @@ aside {
 footer {
 
 }
+=======
+/**
+ * Float Layout Activity 
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+
+}
+
+header {
+
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+  background: #ccc;
+}
+
+section {
+
+}
+
+#left {
+
+}
+
+#middle {
+
+}
+
+#right {
+
+}
+
+#full {
+
+}
+
+#division {
+
+}
+
+aside {
+
+}
+
+footer {
+
+}
+>>>>>>> b44b3a5561fc4c631abdef9e9d000cf20ba8b97c
